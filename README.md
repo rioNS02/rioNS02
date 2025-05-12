@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<div align="center">
+  <img height="250" src="https://media.tenor.com/oqm9FwGu0OwAAAAi/chibi-anime-boy.gif"  />
+</div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="250" src="https://media.tenor.com/oqm9FwGu0OwAAAAi/chibi-anime-boy.gif"  />
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
